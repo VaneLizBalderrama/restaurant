@@ -1,0 +1,20 @@
+{
+    "name": "vaneliz/restaurant",
+    "description": "Sistema para un restaurant",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files":[
+            "app/helpers.php"
+        ]
+
+    },
+    "authors": [
+        {
+            "name":"Vanessa Balderrama",
+            "email": "sin@correo.com"
+        }
+    ],
+    "require": {}
+}
