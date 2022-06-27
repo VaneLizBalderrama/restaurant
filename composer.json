@@ -1,5 +1,5 @@
 {
-    "name": "vaneliz/restaurant",
+    "name": "vanelizbalderrama/restaurant",
     "description": "Sistema para un restaurant",
     "autoload": {
         "psr-4": {
