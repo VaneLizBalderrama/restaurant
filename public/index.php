@@ -1,2 +1,2 @@
 <?php
-echo "hola mundo!";
+echo "<h1>hola mundo!</h1>";
